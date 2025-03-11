@@ -39,3 +39,7 @@ Printers and bookcases generate the highest profit among sub-categories.
 Open the Power BI file (.pbix) in Power BI Desktop.
 Use the filters to view sales trends by quarter or category.
 Analyze profit and loss data for better decision-making.
+
+
+![E-Commerce Store dashboard](https://github.com/user-attachments/assets/caaa3fc9-a59b-4b96-b4f7-b572be90f680)
+
