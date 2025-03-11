@@ -4,8 +4,8 @@
 This Power BI project presents an interactive E-commerce Sales Dashboard that provides insights into key sales metrics, customer trends, and product performance. It is designed to help businesses analyze their sales data efficiently, track profitability, and optimize decision-making.
 
 # Features
-# Key Sales Metrics: Displays total revenue, profit, quantity sold, and average order value (AOV).
-# Top States & Customers: Identifies the highest-performing states and top customers based on revenue.
+Key Sales Metrics: Displays total revenue, profit, quantity sold, and average order value (AOV).
+Top States & Customers: Identifies the highest-performing states and top customers based on revenue.
 Sales by Category & Payment Mode: Visualizes product category distribution and payment method preferences.
 Monthly Profit & Loss Analysis: Tracks business performance over the year with profit and loss breakdowns.
 Profit by Sub-Category: Highlights the most and least profitable product sub-categories.
